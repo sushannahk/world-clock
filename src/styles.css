@@ -18,6 +18,11 @@ select {
 	border-radius: 5px;
 	font-size: 17px;
 }
+
+a {
+	text-decoration: none;
+	color: #201c17;
+}
 .container {
 	display: block;
 	max-width: 600px;
