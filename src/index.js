@@ -43,7 +43,7 @@ function updateCity(event) {
                                  </small>
                 </div>
             </div>
-            <a href="/">All cities</a>
+            <a href="/">Back to home page</a>
     `;
 }
 
